@@ -1,6 +1,6 @@
 # Bright Data ISPプロキシ
 
-[![Promo](https://github.com/luminati-io/ISP-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/proxy-types/isp-proxies?promo=github15)
+[![Promo](https://github.com/bright-jp/ISP-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/proxy-types/isp-proxies?promo=github15)
 
 ## Overview
 ISPから直接取得したIPを使用して、安全で安定した高速なデータ収集を実現するために、Bright Dataの広範な[ISPプロキシネットワーク](https://brightdata.jp/proxy-types/isp-proxies)をご活用ください。
