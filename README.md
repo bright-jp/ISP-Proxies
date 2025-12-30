@@ -1,52 +1,52 @@
-# Bright Data ISP Proxies
+# Bright Data ISPプロキシ
 
-[![Promo](https://github.com/luminati-io/ISP-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/isp-proxies?promo=github15)
+[![Promo](https://github.com/luminati-io/ISP-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/proxy-types/isp-proxies?promo=github15)
 
 ## Overview
-Utilize Bright Data's extensive [ISP proxy network](https://brightdata.com/proxy-types/isp-proxies) for secure, stable, and high-speed data collection with IPs sourced directly from ISPs.
+ISPから直接取得したIPを使用して、安全で安定した高速なデータ収集を実現するために、Bright Dataの広範な[ISPプロキシネットワーク](https://brightdata.jp/proxy-types/isp-proxies)をご活用ください。
 
-- **700,000+ ISP IPs**
-- **Static Residential IPs** with long-term stability
-- **99.9% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **Free Country-Level Targeting**
+- **700,000+ ISP IP**
+- 長期的に安定した**スタティックレジデンシャルIP**
+- **99.9% 成功率**
+- **HTTP(S) & SOCKS5 サポート**
+- **国レベルのターゲティングが無料**
 
 ## Key Features
-- **Global Reach**: Access ISP IPs across [multiple countries](https://brightdata.com/locations).
-- **High Success Rates**: Up to 99.9% success in accessing websites.
-- **Fast and Stable**: Low latency and reliable uptime with 99.99% network availability.
-- **Exclusive IP Access**: Dedicated IPs for consistent connections.
-- **Ethically Sourced**: All ISP proxies are obtained directly from ISPs and are compliant with GDPR and CCPA.
+- **グローバルリーチ**: [複数の国](https://brightdata.jp/locations)にわたってISP IPへアクセスできます。
+- **高い成功率**: Webサイトへのアクセスで最大99.9%の成功率です。
+- **高速かつ安定**: 低レイテンシーと信頼性の高い稼働時間、99.99%のネットワーク可用性を提供します。
+- **限定IPアクセス**: 一貫した接続のための専用IPです。
+- **倫理的に取得**: すべてのISPプロキシはISPから直接取得され、GDPRおよびCCPAに準拠しています。
 
 ## Pricing Plans
-- **Pay As You Go**: $15/GB for monthly commitment-free usage.
-- **Monthly Subscriptions - Shared**:
-  - **10 IPs**: $1.80/IP, $18/month + VAT.
-  - **100 IPs**: $1.45/IP, $145/month + VAT.
-  - **500 IPs**: $1.40/IP, $700/month + VAT.
-  - **1,000 IPs**: $1.30/IP, $1300/month + VAT.
-  - **Enterprise Plans**: Custom solutions for extensive data collection needs.
+- **従量課金（Pay As You Go）**: 月次コミットメントなしで$15/GB。
+- **月額サブスクリプション - 共有（Shared）**:
+  - **10 IPs**: $1.80/IP、$18/month + VAT。
+  - **100 IPs**: $1.45/IP、$145/month + VAT。
+  - **500 IPs**: $1.40/IP、$700/month + VAT。
+  - **1,000 IPs**: $1.30/IP、$1300/month + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集ニーズ向けのカスタムソリューションです。
  
-- **Monthly Subscriptions - Dedicated**:
-  - **10 IPs**: $3.50/IP, $35/month + VAT.
-  - **100 IPs**: $2.75/IP, $275/month + VAT.
-  - **500 IPs**: $2.60/IP, $1300/month + VAT.
-  - **1,000 IPs**: $2.50/IP, $2500/month + VAT.
-  - **Enterprise Plans**: Custom solutions for extensive data collection needs.
+- **月額サブスクリプション - 専用（Dedicated）**:
+  - **10 IPs**: $3.50/IP、$35/month + VAT。
+  - **100 IPs**: $2.75/IP、$275/month + VAT。
+  - **500 IPs**: $2.60/IP、$1300/month + VAT。
+  - **1,000 IPs**: $2.50/IP、$2500/month + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集ニーズ向けのカスタムソリューションです。
  
-- **Monthly Subscriptions - Pay/GB**:
-  - $12.75/GB, $499/month + VAT.
-  - $11.25/GB, $999/month + VAT.
-  - $10.50/GB, $1999/month + VAT.
-  - **Enterprise Plans**: Custom solutions for extensive data collection needs.
+- **月額サブスクリプション - Pay/GB**:
+  - $12.75/GB、$499/month + VAT。
+  - $11.25/GB、$999/month + VAT。
+  - $10.50/GB、$1999/month + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集ニーズ向けのカスタムソリューションです。
 
 
-Sign up and get a dollar-for-dollar match on your first deposit, up to $500!
+登録すると、初回入金に対して1ドルごとに1ドルをマッチし、最大$500まで適用されます！
 
 ## Getting Started with ISP Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Manage IPs and configurations via Bright Data's Control Panel or API.
-3. **Supported Languages**: Quick start guides provided for Python, Java, C#, Node.js, and Shell.
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: Bright DataのControl PanelまたはAPIを通じて、IPおよび設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタートガイドが提供されています。
 
 ## Code Examples
 
@@ -133,35 +133,35 @@ curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]
 ```
 
 ## Integrations
-Our ISP proxies are compatible with widely-used automation tools, including:
+当社のISPプロキシは、以下を含む広く利用されている自動化ツールと互換性があります。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
 
 ## Use Cases
-Common applications for ISP proxies:
+ISPプロキシの一般的な利用例:
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and product availability.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends and engagement.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Collect data on property listings.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare travel deals across locations.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格および在庫状況を追跡します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドとエンゲージメントを監視します。
+- [**Real Estate**](https://brightdata.jp/use-cases/real-estate): 物件掲載情報に関するデータを収集します。
+- [**Travel**](https://brightdata.jp/use-cases/travel): 地域間で旅行取引を比較します。
 
 ## FAQ
 
-### What is an ISP Proxy?
-ISP proxies are static residential IPs assigned to servers, allowing you to access content as if using a regular residential IP but with higher speeds and stability.
+### ISP Proxyとは何ですか？
+ISPプロキシは、サーバーに割り当てられたスタティックレジデンシャルIPです。通常のレジデンシャルIPを使用しているかのようにコンテンツへアクセスできますが、より高い速度と安定性を提供します。
 
-### How do ISP Proxies work?
-ISP proxies use IPs directly from ISPs, enabling fast, reliable access to content from a residential perspective with the speed of datacenter connections.
+### ISP Proxiesはどのように動作しますか？
+ISPプロキシはISPから直接提供されるIPを使用するため、レジデンシャルの視点を保ちながら、データセンター接続の速度でコンテンツへ高速かつ信頼性の高いアクセスを可能にします。
 
-### What are the benefits of using ISP Proxies?
-ISP proxies offer the stability and anonymity of [residential IPs](https://brightdata.com/proxy-types/residential-proxies) along with the speed of datacenter IPs, ideal for tasks like web scraping, ad verification, and SEO monitoring.
+### ISP Proxiesを使用するメリットは何ですか？
+ISPプロキシは、[レジデンシャルIP](https://brightdata.jp/proxy-types/residential-proxies)の安定性と匿名性に加え、データセンターIPの速度も提供します。Webスクレイピング、広告検証、SEOモニタリングなどのタスクに最適です。
 
-### How are ISP Proxies used by businesses?
-ISP proxies are popular for tasks like accessing restricted content, verifying ads, monitoring competitive sites, and quality assurance testing.
+### 企業はISP Proxiesをどのように使用していますか？
+ISPプロキシは、制限されたコンテンツへのアクセス、広告の検証、競合サイトの監視、品質保証テストなどのタスクで広く利用されています。
 
-### Are Bright Data's ISP Proxies compliant?
-Yes, all ISP proxies are ethically sourced and compliant with data protection laws, including GDPR and CCPA, ensuring responsible data practices.
+### Bright DataのISP Proxiesは準拠していますか？
+はい。すべてのISPプロキシは倫理的に取得され、GDPRおよびCCPAを含むデータ保護法に準拠しており、責任あるデータ運用を保証します。
